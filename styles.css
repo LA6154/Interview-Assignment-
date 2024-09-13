@@ -1,0 +1,12 @@
+@media (max-width: 576px) {
+    .custom-section {
+      padding: 20px;
+    }
+    h1 {
+      font-size: 24px;
+    }
+    .lead {
+      font-size: 14px;
+    }
+  }
+  
